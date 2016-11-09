@@ -31,6 +31,7 @@ saiFn(){
     WinGetTitle, title, ahk_exe sai.exe ;获取标题
     fn := strReplace(title, " ")
     fn := strCutL(fn, "/" )
+    fn := strCutL(fn, "\" )
     StringTrimLeft, fn, fn, 1
     fn := strCutR(fn, ".sai")
     fn := strCutR(fn, "_autosave")
