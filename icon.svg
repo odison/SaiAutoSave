@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64.000002 63.999999"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="D:\wsqt\MangaKan\icon128.png"
+   inkscape:export-xdpi="180.06253"
+   inkscape:export-ydpi="180.06253">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.2499999"
+     inkscape:cx="30.885324"
+     inkscape:cy="32.198815"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4137"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.3622)">
+    <g
+       id="g4137"
+       transform="matrix(1.0790301,0,0,1.0566907,-2.9867354,-58.421451)"
+       inkscape:export-xdpi="48.539322"
+       inkscape:export-ydpi="48.539322">
+      <circle
+         style="fill:#66ff00;fill-opacity:1;stroke:#66ff00;stroke-width:0.93650323"
+         id="path4138"
+         cy="-1020.9077"
+         cx="32.424244"
+         r="30.283258"
+         transform="scale(1,-1)" />
+      <circle
+         transform="scale(1,-1)"
+         r="20.874308"
+         cx="32.424244"
+         cy="-1020.9077"
+         id="circle4140"
+         style="fill:#99ff55;fill-opacity:1;stroke:#99ff55;stroke-width:0.93650323" />
+      <circle
+         style="fill:none;fill-opacity:1;stroke:#ccff00;stroke-width:1.49840516;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle4142"
+         cy="-1020.9077"
+         cx="32.424244"
+         r="26.552122"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#d4ff2a;fill-opacity:1;stroke:#ccff00;stroke-width:0.93650323"
+         id="rect4144"
+         width="1.1120546"
+         height="52.884777"
+         x="31.788784"
+         y="994.46527" />
+      <rect
+         y="504.67639"
+         x="-863.72693"
+         height="52.065773"
+         width="1.1297328"
+         id="rect4146"
+         style="fill:#d4ff2a;fill-opacity:1;stroke:#ccff00;stroke-width:0.93658006"
+         transform="matrix(0.49217592,-0.87049576,0.86143661,0.5078651,0,0)" />
+      <rect
+         transform="matrix(-0.49217591,-0.87049576,0.86143661,-0.50786511,0,0)"
+         style="fill:#d4ff2a;fill-opacity:1;stroke:#ccff00;stroke-width:0.93658006"
+         id="rect4148"
+         width="1.1297328"
+         height="52.065773"
+         x="-896.58594"
+         y="-500.42087" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:37.46012878px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="14.71622"
+         y="1022.6577"
+         id="text4150"
+         sodipodi:linespacing="125%"
+         transform="scale(0.98959422,1.0105152)"><tspan
+           sodipodi:role="line"
+           id="tspan4152"
+           x="14.71622"
+           y="1022.6577"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'微软雅黑';-inkscape-font-specification:'微软雅黑';fill:#000080;">存</tspan></text>
+    </g>
+  </g>
+</svg>
