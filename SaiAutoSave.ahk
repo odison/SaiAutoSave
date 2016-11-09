@@ -59,13 +59,12 @@ loop {
     elapsedTime += ($saveInterval)
 
     If (WinExist("ahk_exe sai.exe")) {
-        If (WinActive("ahk_exe sai.exe")) {
-            save()
-            $saveCount += 1
-            if ( 0 == Mod($saveCount, $saveAsInterval) ){
-                saveAs()
-                $saveAsCount += 1
-            }
+        WinWaitActive, ahk_exe sai.exe
+        save()
+        $saveCount += 1
+        if ( 0 == Mod($saveCount, $saveAsInterval) ){
+            saveAs()
+            $saveAsCount += 1
         }
     }
 }
